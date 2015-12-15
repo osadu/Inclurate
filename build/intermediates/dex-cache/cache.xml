@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aibek/AndroidStudioProjects/Inclurate/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/aibek/AndroidStudioProjects/Inclurate/app/build/intermediates/pre-dexed/debug/classes-4430cdd3c6256178c047cf50eb31c21e518d302d.jar" />
+    </item>
+    <item
+        jar="/Applications/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/aibek/AndroidStudioProjects/Inclurate/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-bd76d0074a0e7ba0ac09c603d70c95b9fc9a6e84.jar" />
+    </item>
+    <item
+        jar="/Users/aibek/AndroidStudioProjects/Inclurate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/aibek/AndroidStudioProjects/Inclurate/app/build/intermediates/pre-dexed/debug/classes-4fab5084c4849ecf5b04250d4175af9e63a38fac.jar" />
+    </item>
+    <item
+        jar="/Users/aibek/AndroidStudioProjects/Inclurate/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/aibek/AndroidStudioProjects/Inclurate/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-2b5d2388d333a81ebecce588d3657a7503de813b.jar" />
+    </item>
+    <item
+        jar="/Users/aibek/AndroidStudioProjects/Inclurate/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/aibek/AndroidStudioProjects/Inclurate/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-b94715750068fdc5a2fe49a52ccb1f2d7fea2a9f.jar" />
+    </item>
+
+</items>
